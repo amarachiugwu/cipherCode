@@ -9,4 +9,4 @@ Because there are 26 letters (2×13) in the basic Latin alphabet, ROT13 is its o
 
 
 
-Here is a github link of my solution https://github.com/amarachiugwu/cipherCode
+Here is a github link of my solution https://github.com/amarachiugwu/cipherCode/blob/main/index.js
